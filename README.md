@@ -1,7 +1,6 @@
 # python_plotter
 
 ## Requires
-* python3
 * numpy
 * pandas
 * plotly
