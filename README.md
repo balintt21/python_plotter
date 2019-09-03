@@ -1,6 +1,6 @@
 # python_plotter
 
-## Requires
+## Requirements
 * numpy
 * pandas
 * plotly
