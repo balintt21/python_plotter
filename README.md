@@ -4,7 +4,7 @@
 * numpy
 * pandas
 * plotly
-
+## Usage
 ```
 Usage: ./plotter_2d.py <data_path.csv> [OPTIONS]
 Options:
