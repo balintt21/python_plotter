@@ -6,7 +6,7 @@
 * plotly
 ## Usage
 ```
-Usage: ./plotter_2d.py <data_path.csv> [OPTIONS]
+Usage: ./plotter.py <data_path.csv> [OPTIONS]
 Options:
 	--line - Shows line chart (default)
 	      OR
