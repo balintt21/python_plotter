@@ -1,6 +1,7 @@
 # python_plotter
 
 ## Requirements
+* python3
 * matplotlib
 ```
 pip3 install matplotlib
