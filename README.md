@@ -2,7 +2,9 @@
 
 ## Requirements
 * matplotlib
+```
 pip3 install matplotlib
+```
 ## Usage
 ```
 Usage: plot.py <json_file_path|text:json|text:python array>
