@@ -1,21 +1,14 @@
 # python_plotter
 
 ## Requirements
-* numpy
-* pandas
-* plotly
+* matplotlib
+pip3 install matplotlib
 ## Usage
 ```
-Usage: ./plotter.py <data_path.csv> [OPTIONS]
-Options:
-	--line - Shows line chart (default)
-	      OR
-	--bar  - Shows bar chart
-
-Data format: x,y\n<[x value,y value\n]*
-Example:
-	x,y
-	1,2
-	3,4
-	5,6
+Usage: plot.py <json_file_path|text:json|text:python array>
+Input:
+	text:json
+		{ "x": [1,2,3,...], "y": [1,2,3,...] }
+	text:python array
+		[1,2,3,...]
 ```
